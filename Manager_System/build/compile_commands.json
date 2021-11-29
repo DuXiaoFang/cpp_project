@@ -1,0 +1,27 @@
+[
+{
+  "directory": "E:/Manager_System/build",
+  "command": "E:/app/MingW/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/Manager_system.dir/Boss.cpp.obj -c E:/Manager_System/Boss.cpp",
+  "file": "E:/Manager_System/Boss.cpp"
+},
+{
+  "directory": "E:/Manager_System/build",
+  "command": "E:/app/MingW/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/Manager_system.dir/Employee.cpp.obj -c E:/Manager_System/Employee.cpp",
+  "file": "E:/Manager_System/Employee.cpp"
+},
+{
+  "directory": "E:/Manager_System/build",
+  "command": "E:/app/MingW/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/Manager_system.dir/Manager.cpp.obj -c E:/Manager_System/Manager.cpp",
+  "file": "E:/Manager_System/Manager.cpp"
+},
+{
+  "directory": "E:/Manager_System/build",
+  "command": "E:/app/MingW/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/Manager_system.dir/WorkManager.cpp.obj -c E:/Manager_System/WorkManager.cpp",
+  "file": "E:/Manager_System/WorkManager.cpp"
+},
+{
+  "directory": "E:/Manager_System/build",
+  "command": "E:/app/MingW/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/Manager_system.dir/main.cpp.obj -c E:/Manager_System/main.cpp",
+  "file": "E:/Manager_System/main.cpp"
+}
+]
